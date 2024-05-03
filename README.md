@@ -213,8 +213,7 @@
                     rating in download threshold.</p>
                     <div align="center">
                         <img src="README_files/ideas.png">
-                    </div>
-                    
+                    </div>                    
     <h2>4.2 Results</h2>
     <p>Data in the Google Play store adapts to language settings of user’s browser and operat-
         ing system. During initial screening the authors have seen different settings coming

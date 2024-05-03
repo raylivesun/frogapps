@@ -278,7 +278,6 @@
                 Berry World, which were not taken into building this framework. This could future<p></p>
         <p>direction of research, to take also data from these stores and enhance proposed frame-
             work.</p>
-
             <h2>References</h2>
             <p>
             Zhu, H., Xiong, H., Ge, Y., Chen, E.: Discovery of Ranking Fraud for Mobile
